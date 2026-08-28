@@ -1,0 +1,12 @@
+KER GitHub Pages update
+=======================
+
+These HTML files use the same filenames/routes as the current GitHub Pages site.
+
+1. Open the root of ScreaminRemn/kobold-elden-ring.
+2. Copy every .html file from this folder into the repo root and overwrite the old ones.
+3. Replace KER.pdf with the included KER.pdf.
+4. Commit and push.
+
+The home page identifies the current release as v0.6.4 and compatibility as Elden Ring 1.17 / Tarnished Edition.
+The changelog/footer still follows the supplied PDF's own broad labels: v0.6, v0.7 in progress.
